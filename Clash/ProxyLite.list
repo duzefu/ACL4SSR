@@ -1,5 +1,8 @@
 # 代理列表
 
+# For compile 
+DOMAIN-SUFFIX,mediatek.com
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
